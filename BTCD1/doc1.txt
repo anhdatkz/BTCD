@@ -1,0 +1,581 @@
+1
+compact memories have flexible capacities  a digital data storage
+system with capacity up to bits and random and or sequential access
+is described
+   /
+2
+an electronic analogue computer for solving systems of linear equations
+mathematical derivation of the operating principle and stability
+conditions for a computer consisting of amplifiers
+   /
+3
+electronic coordinate transformer  circuit details are given for
+the construction of an electronic calculating unit which enables
+the polar coordinates of a vector modulus and cosine or sine of the
+argument to be derived from those of a rectangular system of axes
+   /
+4
+the british computer society  report of a conference held in cambridge
+june
+   /
+5
+millimicrosecond digital computer logic  a system of fast pulse
+logic is described which combines the efficiency of transformer coupled
+stages with digit delay tolerances approaching that of dc coupled
+systems  logical circuits for or and inverter and reclock are shown
+together with a driver which permits a fan out factor of  transistor
+circuits are used through
+   /
+6
+binary circuits count backwards or forwards  a transistorized module
+is described that can be used to build logical circuits  a complete
+reversible counter measures
+   /
+7
+d packaging reduces size of electronic units  greater component densities
+are obtainable using a module technique in which miniature circuit
+elements are placed side by side with electrical connection mace on
+a three dimensional basis by a spotwelding process
+   /
+8
+the square loop ferrite core as a circuit element  the shape of the
+output waveforms when the cores are switched is explained by a quantitative
+theory which takes into account the residual loss reasonable
+agreement with experimental evidence is shown
+   /
+9
+switching circuits using bidirectional nonlinear impedances  a general
+review of circuit logic is developed for a bidirectional nonlinear
+switching element  the design of pnp transistor driver sriver stages
+is considered  a binary octal decoder circuit and a simple binary
+full adder circuit are discussed as examples
+   /
+10
+highspeed microwave switching of semiconductors part
+   /
+11
+design of bistable switching circuits using junction transistors
+the relations between the different parameters which affect the switching
+circuit may be obtained by plotting on the same diagram a load
+line and the theoretical curve of the static characteristic of the
+circuit
+   /
+12
+perturbation of waveguides and cavities by spheres and cylinders
+   /
+13
+on the theory of the cavity resonator comprising two confocal paraboloids
+of revolution  a solution is found for a system of equations given
+by buchholz
+   /
+14
+the excitation of cavity resonators by secondary electron resonance
+multiplication  experimental investigation of the suitability for
+frequency multiplication of the process analysed in below
+   /
+15
+some generalizations of duhamels integral for quadripoles
+   /
+16
+the stable and unstable image parameters in quadripole theory  the
+definition of stable and unstable image impedances by edldtkeller
+is extended to related parameters and their position in the complex
+plane is determined
+   /
+17
+matching quadripoles  design formulae are derived for ii andt sections
+and groups of curves are given from which practical design parameters
+can be obtained
+   /
+18
+optimum tchebycheff third order filters  a theoretical analysis is
+given of a design for the detection of rectangular pulsed signals
+on a background of white noise and it is shown that resulting signal
+noise ratios are smaller than those obtained by the use of optimum
+butterworth filters
+   /
+19
+cascade directional filter
+   /
+20
+transient response of bandpass filters to modulated signals  laurents
+low pass band transformation is used with suitable approximations
+to obtain the response to a suddenly applied carrier the derived
+filter is analysed
+   /
+21
+the order of complexity of electrical networks  an expression for
+the order i  e  the number of natural frequencies is derived for
+a rlc network  complete sets of dynamically independent network variables
+are obtained from the network equations
+   /
+22
+the stability criteria for linear systems  the various criteria can
+be obtained and interrelated by means of continued fractions  the
+hurwitz determinants are condensed to about half thei original order
+   /
+23
+the efficiency of a ferrite as a microwave mixer  it is shown theoretically
+that a polycrystalline ferrite should behave like a single crystal
+sample  magnetization measurements taken previously are explained
+by assuming a basic permeability line width of a few gauss and a spread
+in resonant fields from point to point  the efficiency appears to
+be lower than for a conventional crystal mixer
+   /
+24
+selective properties of an oscillator system synchronized by a harmonic
+signal  theoretical investigation of the dependence of the amplitude
+and phase oscillations of an oscillator on the interference of a quasiharmonic
+e  m  f  the effect on the system of harmonic and fluctuation
+noise is briefly examined
+   /
+25
+on the amplitude fluctuation of oscillations of a selfexcited vale
+oscillator  mathematical analysis of the amplitude fluctuations of
+an oscillator due to thermal noise and shot effect for the case of
+weak and strong modes of excitation
+   /
+26
+short time stability of a quartz crystal oscillator as measured with
+an ammonia maser  appreciable improvement in the short time stability
+is achieved by immersing the crystal in liquid helium  control of
+the pressure of the gas above the liquid improves the long time stability
+though adversely affecting the short time stability
+   /
+27
+the reactance characteristics of concentric line circuits with interrupted
+inner conductor  oscillator circuits in which the inner conductor
+is interrupted e  g  those comprising diskseal valves are investigated
+to determine the reactance as a function of gap and line section lengths
+normally the higher resonant frequencies of the circuit are not harmonics
+of the fundamental frequency
+   /
+28
+application of delayed feedback in electronic circuits  a short general
+theory is given of a method of generating periodic signals of controlled shape
+two simple applications of a delay line aa feedback loop
+are given  the signal frequency depends on the delay time and under
+certain conditions on the triggering frequency and this provides a method
+measuring the delay time of an element in the feedback loop
+   /
+29
+use of relaxation oscillators in the generation of frequency modulated
+oscillations  an analysis of the operation of a relaxation oscillator
+as a frequency modulator with a series of diode circuits for transformation
+of the triangular waveform into sinusoidal form
+   /
+30
+millimicrosecond pulse generator capable of million pulses per second
+the generator has a repetition rate of up to sec pulse rise time
+less than and pulse widths from to  the negative output pulse is
+adjustable over a range of to into a load  there are facilities for
+gating single pulses and triggering from an outside source
+   /
+31
+electronic probability generator  description of a random pulse generator
+simulating the tossing of a coin times per second  the probability
+of a particular side of the coin can be varied
+   /
+32
+on the problem of starting conditions of the avalanche process in
+relaxation oscillators on poinoscillators on point contact triodes
+it is shown that the oscillators can be considered as nonlinear voltage
+or current amplifiers  conditions governing the formation of the
+avalanche process are given and fomulae are derived for coefficients
+of voltage and current amplification  circuits are shown
+   /
+33
+frequency divider with direct locking  investigation is carried out
+by the phase pulse method  the effect of phase shift in the feedback
+circuit  nd of anode reaction on the divider regime is considered
+the effect of the shape of the synchronized and pedestal pulses on
+the divider is also examined  theoretical data are verified by experimental
+results
+   /
+34
+generations of harmonics and subharmonics at microwave frequencies
+with pn junction diodes  the performances of a nonlinear resistance
+and a nonlinear capacitance in a wideband harmonic generator circuit
+are analysed  the nonlinear capacitance is shown to have a considerably
+higher efficiency  results of experiments with a graded junction si
+nonlinear capacitance diode are given
+   /
+35
+a new microwave harmonic generator  microwave power is used to maintain
+a very short mercury arc between a pool cathode and a tungsten wire
+anode  with an estimated input power of a few watts at kmcs an output
+in excess of mw was obtained at kmcs a strong signal at kmcs was
+detected by a spectrum analyser placed close to the arc tube
+   /
+36
+improved diode for the harmonic generation of millimetre and submillimetre
+waves
+   /
+37
+the stability factor and static gain of transistor amplifiers  a
+general method relating the stability factor of disturbances of thermal
+origin to static gain is described
+   /
+38
+use of the silicon resistor in the d  c stabilization of transistor
+circuits  stabilization of ground emitter small signal stages over
+a wide range of temperatures is achieved with a si resistor of high
+positive temperature coefficient in the emitter circuit
+   /
+39
+local feedback in transistor amplifiers  the effects of negative
+feedback on common emitter amplifiers are calculated and compared
+with the measured results
+   /
+40
+proposal for a tunable millimetrewave molecular oscillator and amplifier
+   /
+41
+the molecular amplifier  the principles of molecular amplification
+and the main characteristics of the various types of maser are reviewed
+   /
+42
+theory of maser oscillation  the experimentally observed amplitude modulated
+nature of the signal from an inverted spin system undergoing
+maser oscillation or coherent spontaneous emission is explained
+   /
+43
+silvered ruby maser cavity  preparation and properties are described
+   /
+44
+noise figure of reactance converters and parametric amplifiers  a
+simple derivation of noise figure correcting a formula of heffner
+wade
+   /
+45
+phase considerations in degenerate parametric amplifier circuits
+a theoretical examination of the negative resistance in the signalling
+circuit as a function of the phase angle between the pump and signal
+voltages
+   /
+46
+selfquenching in superregenerative parametric amplifiers  a qualitative
+reasoning of the behaviour of cavity time parametric amplifiers in
+the u  h  f  range using ge diodes is given for the condition of
+selfbias or external bias with high internal resistance applied to
+the diode  increase in pump power makes frequency response multipeaked
+as with regenerative valve amplifiers in the coherent state
+   /
+47
+use of the principles of conservation of energy and momentum in connection
+with the operation of wavetype parametric amplifiers  some limitations on
+operation are explained in simple terms and certain general
+relations governing behaviour including the manleyrowe relation are
+derived
+   /
+48
+the quadrupole amplifier a low noise parametric device
+   /
+49
+analysis of a negative conductance amplifier operated with a non deal
+circulator
+   /
+50
+the gain of travelling wave ferromagnetic amplifiers  the gain of
+an amplifier using a circular waveguide and axial ferrite rod of
+small cross section is determined by a general perturbation method
+methods for overcoming the low efficiency are discussed and other
+possible waveguide configurations and practical aspects of construction
+are described
+   /
+51
+two maser experiments to test general relativity  a comparison of
+the velocities of light in two directions can be made to an accuracy
+within using maser techniques  the two experiments involve such comparisons
+to test the principle of equivalence and the local isotropy of
+the spacet me continuum respectively
+   /
+52
+a model of phosphors on the basis of quantum mechanics transition
+probabilities with constant defects and a discrete spectrum
+   /
+53
+the quantum mechanical theory of the dielectric orientation polarization
+of gases the orientation of a dipolar gas consisting of symmetric
+spin molecules in an attenuating electric field
+   /
+54
+influence of the thomson effect on the relationship for a constrictive
+resistance in thermal equilibrium
+   /
+55
+investigation of a highfrequency resonant discharge  an experimental
+study of a discharge in a magnetic field in the frequency range
+a theoretical and experimental analysis is made of the breakdown
+conditions and characteristics and the properties of the plasma in
+the discharge
+   /
+56
+the application of schottkys diffusion theory to discharges with several
+types of ions and excited neutral particles
+   /
+57
+the low pressure plane symmetric discharge
+   /
+58
+pulse technique for probe measurements in gas discharges
+   /
+59
+frequency multiplication by secondary electrons in the centimetre wavelength
+range  fourier analysis of the electron current produced by secondary electron
+resonance multiplication shows that many harmonics are
+generated so that the process appears suitable for frequency multiplication
+in the cm range
+   /
+60
+theory of spatially growing plasma waves
+   /
+61
+on the growth of longitudinal waves propagating in plasma  an analytical
+treatment based on a single solution of the one dimensional linear
+kinetic equation describing the propagation of highfrequency signals
+produced by a given external force  it is shown that for a low temperature
+of the electron gas it is possible to use the ordinary single velocity
+approximation  the analysis of the results permits a determination
+of the direction of propagation of natural waves in a plasma and a
+solution of the problem of the existence of increasing waves in a
+rectilinear electron beam
+   /
+62
+anomalous skin effect in ferromagnetics  a brief mathematical analysis
+of the anomalous skin effect which is present in ferromagnetic materials
+at resonance at low temperature and at high frequencies when the depth
+of the skin layer is of the order of the length of a free path of
+the conduction electrons
+   /
+63
+on the singular electromagnetic field in the borniefeld theory  it
+is shown thet for this singular case the borniefeld theory gives
+the same results as maxwells theory
+   /
+64
+simple derivation of sommerfelds formula for the dipole function
+   /
+65
+transmission and reflection by a parallel wire grid  experimental
+results are given for the transmission and reflection coefficients
+of a plane grid of parallel wires at frequencies near kmcs  the results
+are compared with theory
+   /
+66
+diffraction by a slit  several methods of calculation of the aperture
+field are compared
+   /
+67
+diffraction of electromagnetic waves by smooth obstacles for grazing
+angles  the diffraction of electromagnetic waves by a convex cylindrical
+suface is considered  attention is confined primarily to the region
+near the lightshadow boundary  the complex integral representation
+for the field is utilized to obtain a correction to the kirchhoff
+theory  numerical results are presented which illustrate the influence
+of surface curvature and polarization on the diffraction pattern
+good agreement with the experimental results of bachynski neugebauer
+is obtained  the effect of finite conductivity is also considered
+   /
+68
+the scattering of electronmagnetic waves by a corrugated sheet  the
+physical optics method is used to determine the scattering of a plane
+wave by a perfectly conducting sheet having sunusoidal corrugations
+   /
+69
+microwave conductivity of slightly ionized air  values computed from
+experimental data are compared with others derived from simple formulae
+   /
+70
+cavity resonators for dielectric spectroscopy of compressed gases
+tunable sealed off resonators for frequencies and kmcs at pressures
+are described
+   /
+71
+dispersion measurements on nacl kcl and kbr between and mm wavelength
+report of tests made with the spectrometer described in below
+   /
+72
+a grating spectrometer for the far infrared range and short microwaves
+a special diffraction grating is incorporated in the equipment described
+which covers the wavelength range mm  for measurements blow mm the
+source is a mercury vapour lamp above mm a klystron with frequency
+multiplier is used
+   /
+73
+negative and oscillatory longitudinal magnetoresistance  a report
+on the result of numerical calculations of semiconductors and semimetals
+for the case in which electron scattering is due to the acoustic
+modes of the lattice vibrations and the magnetic field is so large
+that the quantization of the electron orbit is important
+   /
+74
+methods of improving the stability in devices based on the hall effect
+the investigation shows that the main reasons for the temperature
+instability in these devices are the inhomogeneity of the crystal
+lattices of the sample the rectification and the insufficient equipotentiality
+of the hall contacts
+   /
+75
+a comparison of the charges of the electron proton and neutron  a
+report of experiments to determine whether matter in which there
+is an excess of neutrons is electrically neutral  for a comment by
+h bondi r a lyttleton see sept vol supplement
+   /
+76
+measurement of cosmic noise at low frequencies above the ionosphere
+a description of the basic design features of a mcs frequency sweep
+radiometer  the equipment is to be launched as an artificial satellite
+for the measurement of cosmic noise
+   /
+77
+solar investigations in japan  a description of interferometric investigations
+carried out during teh igy by tokio observatory in the range
+mcs of the intensity distribution over the solar disk  the radio
+noise on mcs seems to originate in the solar atmosphere km above
+the visible solar surface  recordings of radio noise between mcs
+are shown and the relations of solar flares magnetic storms and radiowave
+attenuation are considered
+   /
+78
+observations of the fine structure of enhanced solar radio radiation
+with a narrow band spectrum analyser  an extension of the work described
+earlier
+   /
+79
+association of radio outbursts with solar flares  data covering the
+period july december have been examined for a relation between rf
+bursts and flares  a greater than normal percentage of impulsive flares
+of importance were accompanied by rf bursts
+   /
+80
+distribution of flares on the solar disk associated with noise  results
+for periods between june and july indicate that present conditions
+in the solar corona favour noise emission at vhf from flares occurring
+in the northwest quadrant of the solar disk
+   /
+81
+eclipse observations of microwave radio sources on the solar disk
+on april  results are given of observations of flux density polarization
+and brightness distribution made in japan four frequencies in the
+range
+   /
+82
+on the relation of solar eruptions to geomagnetic and ionospheric
+disturbances  a statistical analysis of data indicates that the characteristics
+of solar rf bursts can be related to s type storms shortwave
+fades or a combination of both types of disturbance
+   /
+83
+red shift absorption spectrum of the cygnusa radiosource  results do
+not confirm the observations of lilley mcclain
+   /
+84
+terrestrial corpuscular radiation  a note on the two van allen zones
+which are attributed to charged particles moving in closed trajectories
+formed by magnetic traps due to the earths magnetic field  a graph
+based on american and russian rocket data shows the variation of
+the intensity of these zones with height  a maximum intensity is
+recorded at a distance between km from the centre of the earth
+   /
+85
+fermi acceleration of electrons in the outer van allen belt
+   /
+86
+the physical nature of the surface of the moon  evidence concerning
+the structure of the lunar rock is reviewed  it is probable that
+it is vesicular in nature
+   /
+87
+apparent observation of solar corpuscular clouds by direct continuous wave
+reflexion  a report of observations in ohio of doppler signals centred
+on mcs which were first recorded at ut on april  the observations
+are discussed in relation to a solar flare of importance which reached
+a maximum at about ut on april
+   /
+88
+kellogg and neys model of the solar corona  critical comment on of
+and authors reply
+   /
+89
+some results obtained by measuring the magnetic field at the earth
+with a space rocket  results obtained using magnetometers with a
+range of and a telemetry channel sensitivity of v where oersted indicate
+that at a distance of earth radii the magnetic field does not depend
+only on the earthpotential but also on external sources such as charged
+solar particles  measured values recorded by space rocket are lower
+than calculated ones  the difference between these values reaches
+a maximum at km and a minimum at km
+   /
+90
+the analytical representation of the geomagnetic field  the representation
+of the geomagnetic field for the epoch by series of spherical
+functions up to order are discussed  within the limits of accuracy
+reached the permanent geomagnetic field may be derived only with
+respect to sources within the earth
+   /
+91
+on the characteristic intervals of pulsations of diminishing periods
+in the electromagnetic field of the earth and their connection with
+phenomena in the upper atmosphere  investigation by highspeed recording
+of the daily variation of the earths em field has shown that during
+strong magnetic storms characteristic intervals of pulsation occur
+the decreasing period of these pulsations can be directly correlated
+with the sharp atmospheric disturbances and the development of aurora in
+lower latitudes  records obtained during two severe magnetic storms
+in are discussed
+   /
+92
+evidence concerning instabilities of the distant geomagnetic field
+pioneer i  a report of some preliminary observations suggesting directional
+instability in the field
+   /
+93
+measurement of the rapid fluctuations of the earths magnetic field
+a ferroxcube probe in circuit with a photoelectric fluxmeter of sauzade
+may be used to observe fluctuations at frequencies up to cs
+   /
+94
+geomagnetic storms and the earths outer atmosphere  re  hydromagnetic
+oscillations of the ionized outer atmosphere are considered theoretically
+and discussed in relation to observations of geomagnetic pulsations
+the geomagnetic storm on february is analysed in terms of hydromagnetic
+disturbances in the outer atmosphere  during such storms a corpuscular
+cavity earth radii in size is formed enclosing the earths magnetic
+field  a model of the interplanetary space is proposed  references
+   /
+95
+on the electric field of the polar magnetic storm  it is suggested
+that proton and electron streams rushing into the ionosphere have
+a common powerful polarized field between them which might give rise
+to the currents associated with polar magnetic storms
+   /
+96
+the laws of motion of artificial celestial bodies  the critical velocities
+of artificial satellites are discussed and the observed trajectory
+of the first cosmic rocket launched on the january is examined  a
+rocket designed to reach the moonmust have an initial velocity of
+approximately ms
+   /
+97
+an application of dynamic programming to the determination of optimal
+satellite trajectories
+   /
+98
+orbits of artificial satellites  orbits are specified by three nondimensional
+parameters at rocket burnout and expressions giving the periods
+of closed orbits in terms of the parameters are derived
+   /
+99
+the continued progress of satellite sputnik  report of the progress
+of the satellite since november and of the methods used for predicting
+its flight at the radio research station slough  earlier progress
+has been reviewed by kinghele
+   /
+100
+satellite observations of electrons artificially injected into the
+geomagnetic field  the geomagnetically trapped electrons resulting
+from the high altitude nuclear detonations of the argus experiment
+have been observed on four radiation detectors in satellite explorer
+the measurements for several satellite passes through the argus shells
+are described and the significance of the results is summarized
